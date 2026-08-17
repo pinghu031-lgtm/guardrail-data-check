@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+*.xlsx
+*.xlsm
+*.zip
+已修改数据/
+temp/
+tmp/
