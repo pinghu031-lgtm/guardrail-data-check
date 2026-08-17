@@ -2,6 +2,11 @@
 
 本项目将“护栏数据异常检查工具 v1.7”的 Excel 检查与自动修改规则封装为 Streamlit 应用。代码由 GitHub 托管，可部署到免费的 Streamlit Community Cloud，使用者通过浏览器上传文件并下载结果。
 
+## 在线访问
+
+- Streamlit 云端工具：<https://guardrail-data-check-6zezntyy2aohkdo2iappf3i.streamlit.app/>
+- GitHub 源代码：<https://github.com/pinghu031-lgtm/guardrail-data-check>
+
 ## 功能
 
 - 批量上传 `.xlsx`、`.xlsm` 文件；
